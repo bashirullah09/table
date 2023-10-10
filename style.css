@@ -1,0 +1,55 @@
+
+header {
+  background-color: rgb(223, 102, 102);
+}
+
+.hg {
+  border: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  border-collapse: collapse;
+  word-spacing: 4px;
+  margin: auto;
+  background-color: rgb(221, 221, 221);
+  
+  
+}
+
+th,td{
+  padding: 4px 4px 4px 4px;
+}
+
+.container {
+  background-color: rgb(221, 221, 221);
+}
+
+.logo {
+  margin-left: 10%;
+}
+
+.ha {
+  text-align: center;
+}
+
+.button {
+  background-color: rgb(0, 0, 0);
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 6px;
+  float: right;
+  margin-top: 25px;
+  margin-left: 20%;
+  margin-right: 12%;
+}
+
+.ftr {
+  height: 20px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(221, 221, 221);
+  
+}
+
+
+
